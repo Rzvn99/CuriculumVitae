@@ -1,0 +1,53 @@
+body {
+  background-color: rgb(255,255,255);
+}
+
+#first {
+  background: url(../../assets/img/fundalg.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#down {
+}
+
+#up {
+}
+
+.navbar-light .navbar-brand {
+}
+
+.nav.navbar-nav.ml-auto {
+}
+
+#foot {
+  height: 200px;
+}
+
+#footer {
+  position: absolute;
+}
+
+.jumbotron {
+  position: absolute;
+  width: 100%;
+  bottom: 300px;
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+  padding-top: 50px;
+  text-align: center;
+  background-color: rgb(10,11,57);
+  margin-bottom: 20px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+.text-center {
+}
+
